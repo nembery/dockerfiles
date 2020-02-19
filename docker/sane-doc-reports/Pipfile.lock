@@ -351,10 +351,10 @@
         },
         "pytest-clarity": {
             "hashes": [
-                "sha256:3f40d5ae7cb21cc95e622fc4f50d9466f80ae0f91460225b8c95c07afbf93e20"
+                "sha256:5cc99e3d9b7969dfe17e5f6072d45a917c59d363b679686d3c958a1ded2e4dcf"
             ],
             "index": "pypi",
-            "version": "==0.2.0a1"
+            "version": "==0.3.0a0"
         },
         "pytest-cov": {
             "hashes": [
@@ -386,10 +386,10 @@
         },
         "zipp": {
             "hashes": [
-                "sha256:ccc94ed0909b58ffe34430ea5451f07bc0c76467d7081619a454bf5c98b89e28",
-                "sha256:feae2f18633c32fc71f2de629bfb3bd3c9325cd4419642b1f1da42ee488d9b98"
+                "sha256:12248a63bbdf7548f89cb4c7cda4681e537031eda29c02ea29674bc6854460c2",
+                "sha256:7c0f8e91abc0dc07a5068f315c52cb30c66bfbc581e5b50704c8a2f6ebae794a"
             ],
-            "version": "==2.1.0"
+            "version": "==3.0.0"
         }
     }
 }
